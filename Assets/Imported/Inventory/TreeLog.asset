@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12a19e9d936174cc7b81aa453abf881b, type: 3}
+  m_Name: TreeLog
+  m_EditorClassIdentifier: 
+  name: TreeLog
+  icon: {fileID: 21300000, guid: 03406da8c550d0245840d398a85d08fe, type: 3}
+  game_object: {fileID: 1628695205405998, guid: 6da9ee4491afb8e4fbdab102c1f4472c,
+    type: 2}
+  isDefaultItem: 0
